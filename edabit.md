@@ -1,7 +1,7 @@
-a. Conditions
-   I. Challenge 1
-      1. URL: https://edabit.com/challenge/Ju7AK9rAGjz86hjxo
-      2. Solution: https://www.dropbox.com/s/kn3t4wovi50ie5o/Firefox_Screenshot_2019-12-07T18-24-40.232Z.png?dl=0
+# a. Conditions
+   I. Challenge 1 <br>
+      1. URL: https://edabit.com/challenge/Ju7AK9rAGjz86hjxo <br>
+      2. Solution: https://www.dropbox.com/s/kn3t4wovi50ie5o/Firefox_Screenshot_2019-12-07T18-24-40.232Z.png?dl=0 <br>
    II. Challenge 2
       1. URL: https://edabit.com/challenge/kLa2w7m4h849k8rmW
       2. Solution: https://www.dropbox.com/s/uuruy62rs0533e2/Firefox_Screenshot_2019-12-07T19-03-37.172Z.png?dl=0
@@ -15,7 +15,7 @@ a. Conditions
       1. URL: https://edabit.com/challenge/PKiTjA7SLK99ZZ8GK
       2. Solution: https://www.dropbox.com/s/gxgljmtlhb1l39b/Firefox_Screenshot_2019-12-07T21-03-20.819Z.png?dl=0
 
-b. Arrays
+# b. Arrays
    I. Challenge 1
       1. URL: https://edabit.com/challenge/Q3n42rEWanZSTmsJm
       2. Solution: https://www.dropbox.com/s/0jl8f585zep3m9j/Firefox_Screenshot_2019-12-08T15-01-46.049Z.png?dl=0
@@ -32,7 +32,7 @@ b. Arrays
       1. URL: https://edabit.com/challenge/FPHnbisnLwrQFYyAg
       2. Solution: https://www.dropbox.com/s/3f3olk9e4mqzez8/Firefox_Screenshot_2019-12-08T18-35-52.112Z.png?dl=0
 
-c. Loops
+# c. Loops
    I. Challenge 1
       1. URL: https://edabit.com/challenge/kbFhwaDyrd79JrgeB
       2. Solution: https://www.dropbox.com/s/vjds6670ppdx196/Firefox_Screenshot_2019-12-08T19-21-29.511Z.png?dl=0
@@ -49,7 +49,7 @@ c. Loops
       1. URL: https://edabit.com/challenge/Mo6Coy4PpTbZgtDKd
       2. Solution: https://www.dropbox.com/s/za3jmatzlmgoyxo/Firefox_Screenshot_2019-12-09T17-19-45.530Z.png?dl=0
 
-d. Functional Programming
+# d. Functional Programming
    I. Challenge 1
       1. URL: 
       2. Solution:
@@ -66,7 +66,7 @@ d. Functional Programming
       1. URL:
       2. Solution:
 
-e. Scope
+# e. Scope
    I. Challenge 1
       1. URL: 
       2. Solution:
@@ -83,7 +83,7 @@ e. Scope
       1. URL:
       2. Solution:
 
-f. Objects
+# f. Objects
    I. Challenge 1
       1. URL: 
       2. Solution:
@@ -100,7 +100,7 @@ f. Objects
       1. URL:
       2. Solution:
 
-g. Classes
+# g. Classes
    I. Challenge 1
       1. URL: 
       2. Solution:
