@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h3>a. Conditions
 <h4>   I. Challenge 1
 <h5>      1. URL: https://edabit.com/challenge/Ju7AK9rAGjz86hjxo
