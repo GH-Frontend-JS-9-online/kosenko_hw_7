@@ -55,10 +55,10 @@
 <h5>      2. Solution: https://www.dropbox.com/s/lbe504ps58w5g1s/Firefox_Screenshot_2019-12-09T19-03-17.422Z.png?dl=0
 <h4>   II. Challenge 2
 <h5>      1. URL: https://edabit.com/challenge/cada8J3AWGRhwQhkk
-<h5>      2. Solution:
-<h4>   III. Challange 3
-<h5>      1. URL: https://edabit.com/challenge/cada8J3AWGRhwQhkk
 <h5>      2. Solution: https://www.dropbox.com/s/nmgecabee6lnx9t/Firefox_Screenshot_2019-12-09T19-57-16.598Z.png?dl=0
+<h4>   III. Challange 3
+<h5>      1. URL:
+<h5>      2. Solution:
 <h4>   IV. Challange 4
 <h5>      1. URL:
 <h5>      2. Solution:
