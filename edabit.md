@@ -68,8 +68,8 @@
 
 <h3>e. Scope
 <h4>   I. Challenge 1
-<h5>      1. URL: 
-<h5>      2. Solution:
+<h5>      1. URL: https://edabit.com/challenge/wTQpSEZPpPdyLtK9k
+<h5>      2. Solution: https://www.dropbox.com/s/84ksuzmor0o5u9g/Firefox_Screenshot_2019-12-12T19-13-42.403Z.png?dl=0
 <h4>   II. Challenge 2
 <h5>      1. URL:
 <h5>      2. Solution:
